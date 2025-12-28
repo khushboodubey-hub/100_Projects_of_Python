@@ -1,0 +1,30 @@
+Making a search button to get password of the specific website adn username or email.
+
+# FileNotFound
+with open("a_file.txt") as file:
+     file.read()
+
+
+# KeyError
+a_dictionary = {"key": "value"}
+value = a_dictionary["non_existent_key"]
+
+
+# IndexError
+fruit_list = ["Apple", "Banana", "Pear"]
+fruit = fruit_list[3]
+
+# TypeError
+text = "abc"
+print(text + 5)
+
+
+# try : something that might cause an exception
+# except : Do this if there was an exception
+# else : do this if there were no exceptions
+# finally : do this no matter what happens
+
+and About json too which stands for JavaScript Object Notation.
+write = json.dump()
+read = json.load()
+update = json.update()

@@ -1,0 +1,2 @@
+rewriting the code for missing states csv 
+using list comprihension to make it more shorter.

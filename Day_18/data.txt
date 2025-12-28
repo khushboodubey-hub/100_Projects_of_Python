@@ -1,0 +1,3 @@
+web | name | password
+insta | khushboo | 200695
+upi | khushboo | 5926
